@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VaibhavBhawsar
+- 👋 Hi, I’m @Vaibhav Bhawsar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django Project

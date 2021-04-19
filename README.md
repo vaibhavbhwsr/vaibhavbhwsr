@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaibhav Bhawsar
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django Project
 - 📫 To reach, Mail me Vaibhav.bhawsar.77@gmail.com

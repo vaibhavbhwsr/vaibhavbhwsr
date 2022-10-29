@@ -1,5 +1,6 @@
 ### :man_technologist: About Me : 
-![](https://komarev.com/ghpvc/?username=mnamegaurav&style=flat-square&label=Profile+Visitors&color=blueviolet)<br />
+![image](https://komarev.com/ghpvc/?username=mnamegaurav&style=flat-square&label=Profile+Visitors&color=blueviolet)
+![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvaibhavbhwsr1212%2Fhit-counter)<br />
 👋 Hi, I’m @Vaibhav Bhawsar.<br />
 👀 I’m interested in Software Development.<br />
 🌱 I’m currently a Python Developer.<br />
@@ -31,6 +32,11 @@
 ---
 ### :fire: My Stats :
 <!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavbhwsr&show_icons=true&theme=radical) -->
+
+<!-- ![image](https://github-profile-trophy.vercel.app/?username=vaibhavbhwsr)<br /> -->
+
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavbhwsr&theme=vue)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhavbhwsr&theme=dark&background=000000)](https://git.io/streak-stats)<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhwsr&theme=radical&layout=compact&hide=php)](https://github.com/anuraghazra/github-readme-stats)

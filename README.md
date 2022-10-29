@@ -32,7 +32,7 @@
 <!-- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavbhwsr&show_icons=true&theme=radical) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhavbhwsr&theme=dark&background=000000)](https://git.io/streak-stats)<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhwsr&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhwsr&theme=radical&layout=compact&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---

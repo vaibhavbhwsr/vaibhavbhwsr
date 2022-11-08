@@ -1,10 +1,10 @@
 ### :man_technologist: About Me : 
 ![image](https://komarev.com/ghpvc/?username=mnamegaurav&style=flat-square&label=Profile+Visitors&color=blueviolet)
 ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvaibhavbhwsr1212%2Fhit-counter)<br />
-👋 Hi, This is @Vaibhav_Bhawsar.<br />
+👋 Hi, This is @Vaibhav_Bhawsar. I really appreaciate that you reached here. Please feel freee to get in touch.<br />
 🌱 I’m a Python Developer.<br />
 👀 Help in Python/AWS Projects.<br />
-💞️ I love to explore Python, DevOps/DevSecOps Projects with best practices and superb performance.
+💞️ I love to explore Python, DevSecOps/DevOps projects with best practices, and awesome performance.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :

@@ -4,7 +4,7 @@
 👋 Hi, This is @Vaibhav_Bhawsar. I appreaciate that you reached here. Please feel freee to get in touch.<br />
 🌱 I’m a Python Developer.<br />
 👀 Help in Python/AWS Projects.<br />
-💞️ I explore Python, DevSecOps/DevOps projects with best practices, and good performance.
+💞️ I explore Python, DevSecOps/DevOps projects with best practices.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :

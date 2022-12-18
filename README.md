@@ -1,6 +1,6 @@
 ### :man_technologist: About Me : 
 ![image](https://komarev.com/ghpvc/?username=mnamegaurav&style=flat-square&label=Profile+Visitors&color=blueviolet)
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvaibhavbhwsr1212%2Fhit-counter)<br />
+<!-- ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvaibhavbhwsr1212%2Fhit-counter)<br /> -->
 👋 Hi, This is @Vaibhav_Bhawsar. I appreaciate that you reached here. Please feel freee to get in touch.<br />
 🌱 I’m a Python Developer.<br />
 👀 Help in Python/AWS Projects.<br />

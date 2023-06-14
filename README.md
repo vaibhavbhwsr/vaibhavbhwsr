@@ -35,7 +35,7 @@
 
 <!-- ![image](https://github-profile-trophy.vercel.app/?username=vaibhavbhwsr)<br /> -->
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavbhwsr&theme=vue)
+<!-- ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavbhwsr&theme=vue) -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhavbhwsr&theme=dark&background=000000)](https://git.io/streak-stats)<br />
 
